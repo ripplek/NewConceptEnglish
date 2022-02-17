@@ -2,8 +2,32 @@
 
 
 
-# Lesson 1
+# Lesson 1 A private conversation
 
+
+    Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it. A young man and a young woman were sitting behind me. They were talking loudly. I got very angry. I could not hear the actors. I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not bear it. I turned round again. 'I can't hear a word!' I said angrily.
+    'It's none of your business,' the young man said rudely. 'This is a private conversation!'
+
+New words and expressions 生词和短语
+
++ private  adj. 私人的
++ conversation  n. 谈话
++ theatre  n. 剧场，戏院
++ seat  n. 座位
++ play  n. 戏
++ loudly  adv. 大声地
++ angry  adj. 生气的
++ angrily  adv. 生气地
++ attention  n. 注意
++ bear  v. 容忍
++ business  n. 事
++ rudely  adv. 无礼地，粗鲁地
+
+参考译文
+
+    上星期我去看戏。我的座位很好，戏很有意思，但我却无法欣赏。一青年男子与一青年女子坐在我的身后，大声地说着话。我非常生气，因为我听不见演员在说什么。我回过头去怒视着那一男一女，他们却毫不理会。最后，我忍不住了，又一次回过头去，生气地说：“我一个字也听不见了！”
+    “不关你的事，”那男的毫不客气地说，“这是私人间的谈话！”
+    
 ##### 简单陈述句的组成
 
 一般陈述句由主语+谓语+宾语+方式+地点+时间几部分组成,需要注意主语和谓语动词的方式要一致,一般时间状语放在最后或者最开始用逗号分隔.
@@ -11,11 +35,33 @@
 > 文中句子: 
 
 1. pay no attention.  没有注意
-2.  pay attention. 值得注意
+2. pay attention. 值得注意
 
->   经典语句: It's none of your business!   这不关你的事!
+> 经典语句: It's none of your business!   这不关你的事!
 
-# Lesson 2
+# Lesson 2  Breakfast or lunch?
+
+    It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime. Last Sunday I got up very late. I looked out of the window. It was dark outside. 'What a day!' I thought. 'It's raining again.' Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train,' she said. 'I'm coming to see you.'
+    'But I'm still having breakfast,' I said.
+    'What are you doing?' she asked.
+    'I'm having breakfast,' I repeated.
+    'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'
+
+New words and expressions 生词和短语
+
++ until  prep. 直到
++ outside adv. 外面
++ ring  v. （铃、电话等）响
++ aunt  n. 姑，姨，婶，舅母
++ repeat  v. 重复
+
+参考译文
+ 
+    那是个星期天，而在星期天我是从来不早起的，有时我要一直躺到吃午饭的时候。上个星期天，我起得很晚。我望望窗外，外面一片昏暗。“鬼天气！”我想，“又下雨了。”正在这时，电话铃响了。是我姑母露西打来的。“我刚下火车，”她说，“我这就来看你。”
+    “但我还在吃早饭，”我说。
+    “你在干什么？”她问道。
+    “我正在吃早饭，”我又说了一遍。
+    “天啊，”她说，“你总是起得这么晚吗？现在已经1点钟了！”
 
 ##### 一般现在时和现在进行时
 
@@ -35,7 +81,27 @@
 
 > 经典语句: Dear me!
 
-# Lesson 3
+# Lesson 3  Please send me a card
+
+    Postcards always spoil my holidays. Last summer, I went to Italy. I visited museums and sat in public gardens. A friendly waiter taught me a few words of Italian. Then he lent me a book. I read a few lines, but I did not understand a word. Everyday I thought about postcards. My holidays passed quickly, but I did not send cards to my friends. On the last day I made a big decision. I got up early and bought thirty-seven cards. I spent the whole day in my room, but I did not write a single card!
+
+New words and expressions 生词和短语
+
++ send  v. 寄，送
++ postcard  n. 明信片
++ spoil  v. 使索然无味，损坏
++ museum  n. 博物馆
++ public  adj. 公共的
++ friendly  adj. 友好的
++ waiter  n. 服务员，招待员
++ lend  v. 借给
++ decision  n. 决定
++ whole  adj. 整个的
++ single  adj. 唯一的，单一的
+
+参考译文
+
+    明信片总搅得我假日不得安宁。去年夏天，我去了意大利。我参观了博物馆，还去了公园。一位好客的服务员教了我几句意大利语，之后还借给我一本书。我读了几行，但一个字也不懂。我每天都想着明信片的事。假期过得真快，可我还没有给我的朋友们寄过一张明信片。到了最后一天，我作出了一项重大决定。我早早起了床，买来了37张明信片。我在房间里关了整整一天。然而竟连一张明信片也没写成！
 
 ##### 一般过去时
 
@@ -54,7 +120,23 @@
 
 
 
-# Lesson 4
+# Lesson 4 An exciting trip
+
+    I have just received a letter from my brother, Tim. He is in Australia. He has been there for six months. Tim is an engineer. He is working for a big firm and he has already visited a great number of different places in Australia. He has just bought an Australian car and has gone to Alice springs, a small town in the centre of Australia. He will soon visit Darwin. From there, he will fly to Perth. My brother has never been abroad before, so he is fending this trip very exciting.
+
+New words and expressions 生词和短语
+
++ exciting  adj. 令人兴奋的
++ receive  v. 接受，收到
++ firm  n. 商行，公司
++ different  adj. 不同的
++ centre  n. 中心
++ abroad  adv. 在国外
+
+参考译文
+
+    我刚刚收到弟弟蒂姆的来信，他正在澳大利亚。他在那儿已经住了6个月了。蒂姆是个工程师，正在一家大公司工作，并且已经去过澳大利亚的不少地方了。他刚买了一辆澳大利亚小汽车，现在去了澳大利亚中部的小镇艾利斯斯普林斯。他不久还将到达达尔文去，从那里，他再飞往珀斯。我弟弟以前从未出过国，因此，他觉得这次旅行非常激动人心。
+
 
 #### **主要知识点:**
 
@@ -108,7 +190,23 @@ I have never been abroad before,so I'm finding this trip very exciting.
 
 
 
-# Lesson 5
+# Lesson 5  No wrong numbers
+
+    Mr.James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst. Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons. Yesterday, a pigeon carried the first message from Pinhurst to Silbury. The bird covered the distance in three minutes. Up to now, Mr.Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other. In this way, he has begun his own private 'telephone' service.
+
+New words and expressions 生词和短语
+
++ pigeon  n. 鸽子
++ message  n. 信息
++ cover  v. 越过
++ distance  n. 距离
++ request  n. 要求，请求
++ spare part  备件
++ service  n. 业务，服务
+
+参考译文
+
+    詹姆斯.斯科特先生在锡尔伯里有一个汽车修理部，现在他刚在平赫斯特买了另一个汽车修理部。平赫特离锡尔伯里只有5英里，但詹姆斯.斯科特先生未能为他新的汽车修理部搞到一部电话机，所以他买了只鸽子。昨天，一只鸽子把第一封信从平赫特带到锡尔伯里。这只鸟只用了3分钟就飞完了全程。到目前为止，斯科特先生从一个汽车修理部向另一个发送了大量索取备件的信件和其他紧急函件。就这样，他开始自己的私人“电话”业务。
 
 #### 主要知识点:
 
@@ -171,7 +269,20 @@ That's so: 是那样,真的
 
 
 
-# Lesson 6
+# Lesson 6  Percy buttons
+
+    I have just moved to a house in Bridge Street. Yesterday a beggar knocked at my door. He asked me for a meal and a glass of beer. In return for this, the beggar stood on his head and sang songs. I gave him a meal. He ate the food and drank the beer. Then he put a piece of cheese in his pocket and went away. Later a neighbour told me about him. Everybody knows him. His name is Percy Buttons. He calls at every house in the street once a month and always asks for a meal and a glass of beer.
+
+New words and expressions 生词和短语
+
++ beggar  n. 乞丐
++ food  n. 食物
++ pocket  n. 衣服口袋
++ call  v. 拜访，光顾
+
+参考译文
+
+    我刚刚搬进了大桥街的一所房子。昨天一个乞丐来敲我的门，问我要一顿饭和一杯啤酒。作为回报，那乞丐头顶地倒立起来，嘴里还唱着歌。我给了他一顿饭。他把食物吃完，又喝了酒。然后把一块乳酪装进衣袋里走了。后来，一位邻居告诉了我他的情况。大家都认识他，他叫珀西.巴顿斯。他每月对这条街上的每户人家光顾一次，总是请求给他一顿饭和一杯啤酒。
 
 #### 主要知识点
 
@@ -199,7 +310,7 @@ some表示一些不确定具体的数量,名词可以是单复数形式
 + a drop of: 一滴
 + wad: 一叠
 
-# Lesson 7
+# Lesson 7 Too late
 
 #### 主要知识点
 
@@ -221,6 +332,10 @@ some表示一些不确定具体的数量,名词可以是单复数形式
 + knock out: 击昏
 + knock off: 下班,让利
 + knock at: 敲门
++ take off: 脱掉 -- 反义词 put on: 穿上. ps: He sat on the bed to take his shoes off. 他坐到床上去脱鞋。这里还可以额外感受一下to引导的目的状语从句。
++ take off: 起飞. -- ps: I felt excited when the plane took off from Heathrow. 当飞机从Heathroe起飞的时候我感到很激动。
++ take off: 开始成功 --  ps:    Mimi became jealous when Jack’s career started taking off. 当Jack的事业开始成功的时候，Mimi就开始嫉妒。
++ take a day off  休息一天  
 
 ##### 过去进行时
 
@@ -236,6 +351,15 @@ when一般是当一件事情发生的事情另一件事情正在发生
 
 while一般是两件事情同时发生
 
+>ps: While two detectives were keeping guard at the door, two others opened the parcel. 
+>
+>>这句话里面过去进行时和一般过去时搭配使用。过去进行时通常表示一个历时较长的体现背景的状态或动作，一般过去时则表示此背景下发生的短暂的动作或状态。一般过去进行时动作先发生，一般过去时动作后发生。
+>
+>1. 固定搭配：to one’s surprise 让某人惊奇的是
+>
+>2. 固定搭配:  be full of + 名词  充满……
+
+
 
 
 **短语**
@@ -249,7 +373,21 @@ while一般是两件事情同时发生
 
 
 
-# Lesson 8
+# Lesson 8  The best and the worst
+
+    Joe Sanders has the most beautiful garden in our town. Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time. Bill Frith's garden is larger than Joe's. Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting. He has made neat paths and has built a wooden bridge over a pool. I like gardens too, but I do not like hard work. Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!
+
+New words and expressions 生词和短语
+
++ competition  n. 比赛，竞赛
++ neat  adj. 整齐的，整洁的
++ path  n. 小路，小径
++ wooden  adj. 木头的
++ pool  n. 水池
+
+参考译文
+
+    乔.桑德斯拥有我们镇上最漂亮的花园。几乎每个人都参加每年举办的“最佳花园竞赛”，而每次都是乔获胜。比尔.弗里斯的花园比乔的花园大，他比乔也更为勤奋，种植的花卉和蔬菜也更多，但乔的花园更富有情趣。他修筑了一条条整洁的小路，并在一个池塘上架了一座小木桥。我也喜欢花园，但我却不愿意辛勤劳动。每年的花园竞赛我也参加，但总因是镇上最劣的花园而获得一个小奖！ 
 
 #### 主要知识点
 
@@ -318,7 +456,24 @@ grow加形容词通常表示变得怎么怎么样
 
 
 
-# Lesson 9
+# Lesson 9  A cold welcome
+
+
+    On Wednesday evening, we went to the Town Hall. It was the last day of the year and a large crowd of people had gathered under the Town Hall clock. It would strike twelve in twenty minutes' time. Fifteen minutes passed and then, at five to twelve, the clock stopped. The big minute hand did not move. We waited and waited, but nothing happened. Suddenly someone shouted. 'It's two minutes past twelve! The clock has stopped!' I looked at my watch. It was true. The big clock refused to welcome the New Year. At that moment, everybody began to laugh and sing.
+
+New words and expressions 生词和短语
+
++ welcome  n. 欢迎；v. 欢迎
++ crowd  n. 人群
++ gather  v. 聚集
++ hand  n. （表或机器的）指针
++ shout  v. 喊叫
++ refuse  v. 拒绝
++ laugh  v. 笑
+
+参考译文
+
+    星期三的晚上，我们去了市政厅。 那是一年的最后一天，一大群人聚集在市政厅的大钟下面。再过20分钟，大钟将敲响12下。15分钟过去了，而就在11点55分时，大钟停了。那根巨大的分针不动了。 我们等啊等啊，可情况没有变化。突然有人喊道：“已经12点零2分了！那钟已经停了！”我看了一下我的手表，果真如此。那座大钟不愿意迎接新年。此时，大家已经笑了起来，同时唱起了歌。
 
 #### 主要知识点
 
